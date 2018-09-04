@@ -23,7 +23,7 @@ spring:
           uri: https://github.com/pkchoudhary06/config-repo_01/
           searchPaths: licensingservice,organizationservice
           username: pkchoudhary06
-          password: pkchoudhary@06
+          password: *****
 
 
 ####
